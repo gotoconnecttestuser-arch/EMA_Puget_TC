@@ -1,7 +1,14 @@
 SMS Terms and Conditions
 Effective Date: October 15, 2026
 
-By opting in to receive SMS messages from EMA Puget Sound, you agree to the following SMS Terms and Conditions.
+By providing your mobile number and opting in to receive text messages from EMA Puget Sound, you agree to receive conversational messages.
+
+Message frequency: Message frequency may vary. On average, 1-2 messages per month.
+Privacy Policy: https://github.com/gotoconnecttestuser-arch/EMA_Puget_PP
+Consent: Consent to receive text messages is not required as a condition of purchase.
+Opt-out: You may opt out at any time by replying STOP.
+Help: Reply HELP for assistance.
+Message and data rates: Message and data rates may apply.
 
 Program Description
 EMA Puget Sound sends conversational and service-related text messages to patients and customers regarding:
