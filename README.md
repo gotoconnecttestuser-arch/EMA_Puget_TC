@@ -11,7 +11,7 @@ Help: Reply HELP for assistance.
 Message and data rates: Message and data rates may apply.
 
 Program Description
-EMA Puget Sound sends conversational and service-related text messages to patients and customers regarding:
+EMA Puget Sound sends conversational text messages to patients and customers regarding:
 - Appointment scheduling and reminders
 - Patient care coordination
 - Responses to patient inquiries
